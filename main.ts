@@ -1,3 +1,3 @@
-import { sayHello } from "$src/app";
+import { sayHello } from "$src/app.js";
 
 sayHello();
